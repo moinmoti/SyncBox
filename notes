@@ -1,0 +1,4 @@
+S_ISREG(file_stat.st_mode) {
+	// handle regular file
+}
+
